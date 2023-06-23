@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Dracula At Night",
+    "window.zoomLevel": 1,
+    "editor.fontSize": 40,
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    
+    "python.linting.mypyEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.testing.unittestEnabled": true,
+
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": false,
+        "editor.formatOnSave": true
+    },
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
